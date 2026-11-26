@@ -41,9 +41,9 @@ OS_PATHS = {
 }
 PACKAGE_PATHS = {
     23: "packages",  # Python 3.7.7
-    24: "packages_c4d_S24",  # Python 3.9.1
-    25: "packages_c4d_S24",
-    26: "packages_c4d_S24",
+    24: "packages_c4d_R24",  # Python 3.9.1
+    25: "packages_c4d_R24",
+    26: "packages_c4d_R24",
     2023: "packages_c4d_2023",  # Python 3.10.8
     2024: "packages_c4d_2024",  # Python 3.11.4
     2025: "packages_c4d_2024",
